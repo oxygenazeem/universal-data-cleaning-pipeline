@@ -3,7 +3,7 @@
 A sleek, interactive web application that turns raw, messy data into production-ready Excel spreadsheets. Instead of writing rigid, hardcoded cleaning scripts, this app detects your dataset's columns dynamically and lets you configure custom data manipulation rules directly from a graphical user interface.
 
 ## Live Demo
-(Link will be posted here shortly)
+[Run the live demo here!](https://universal-data-pipeline.streamlit.app)
 
 ## Key Features
 - **Dynamic File Ingestion:** Upload any standard CSV file regardless of structure or column naming schemes.
